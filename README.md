@@ -6,6 +6,8 @@ A proof-of-concept patch is provided with these scripts to show how it works. Ex
 
 ![](http://i.imgur.com/P8ypaT4.png)
 
+> **Note to self:** We should try to build one of these, and provide an `.xdelta` in a Github Releases file.
+
 ## Tips
 
 RikuKH3's hacks make it possible to inject text without restrictions into the script. This makes a complete translation of the PSP game possible.
