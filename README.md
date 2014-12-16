@@ -1,6 +1,6 @@
 > **Note:** _It is no longer necessary to produce an English Patch for Steins;Gate on PSP, now that an official English version of Steins;Gate will be released soon [on PS Vita in 2015.](http://www.ricedigital.co.uk/steins-gate-ps-vita-ps3-coming-2015/)_  
-> _However, this Steins;Gate patch compiler **is a great way to learn how to translate PSP games**, so we use it in our [PSP Translation training manual.](https://en.wikibooks.org/wiki/PSP/Steins_Gate_Translation)_
-> _Also, it goes without saying that this compiler is useful for Spanish, French, Russian, or other languages without an official release..._
+> _However, this Steins;Gate patch compiler **is a great way to learn how to translate PSP games**, so we use it in our [PSP Translation training manual.](https://en.wikibooks.org/wiki/PSP/Steins_Gate_Translation)_  
+> _Also, it goes without saying that **this compiler is useful for other languages**, such as Spanish, French, Russian, which have no official release..._
 
 This is a set of script compilers for the PSP game `STEINS;GATE (ULJM05887)`. You can use these tools to create an English Patch for the PSP Game.
 
